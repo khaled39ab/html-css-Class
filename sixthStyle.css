@@ -1,0 +1,16 @@
+h1{
+	background-color:skyblue;
+	text-align:center;
+}
+
+p{
+	font-size:20px;
+}
+
+body{
+	background-image:url("image/logo.jpg"),url("image/pencel.jpeg");
+	background-repeat:no-repeat,no-repeat;
+	background-position:right top,left ;
+	background-attachment:fixed,scroll;
+	background-size:50%,50%;
+}

@@ -1,0 +1,27 @@
+h1{
+	color:#7a048a;
+	font-size:45px;
+	background-color:#999966;
+	text-align:center;
+}
+.nav-menu{
+	width:560px;
+	height:80px;
+	background-color:#021a4f;
+	margin:0 auto;
+}
+.nav-menu ul li{
+	list-style-type:none;
+	float:left;
+	margin:20px;
+}
+.nav-menu ul li a{
+	font-size:28px;
+	color:white;
+	text-decoration:none;
+}
+.nav-menu ul li a:hover{
+	text-decoration:underline;
+	cursor:help;
+	color:red;
+}

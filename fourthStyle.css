@@ -1,0 +1,100 @@
+.heading{
+	text-align:center;
+	font-weight:bold;
+	color:green;
+	font-size:40px;
+}
+
+.sub-heading{
+	
+	color:red;
+	font-style:italic;
+	
+}
+.para-style{
+	
+	font-size:18px;
+	color:gray;
+	background-color:lightblue;
+	
+}
+#justify{	
+	text-align:justify;
+}
+#right{
+	text-align:right;
+	font-size:22px;
+	font-weight:bold;
+	color:yellow;
+}
+#overline{
+	text-decoration:overline;
+	font-size:22px;
+	font-weight:bold;
+	color:yellow;
+	width:33%;
+	float:left;
+}
+#underline{
+	text-decoration:underline;
+	font-size:22px;
+	font-weight:bold;
+	color:yellow;
+	width:33%;
+	float:left;
+}
+#line-through{
+	text-decoration:line-through;
+	font-size:22px;
+	font-weight:bold;
+	color:yellow;
+	width:33%;
+	float:left;
+}
+.text-indent{
+	
+	text-indent:50px;
+	
+}
+#uppercase{	
+	text-transform:uppercase;	
+}
+#capitalize {
+    text-transform:capitalize;
+}
+
+.text-shadow{	
+	text-shadow:5px 3px 4px yellow;	
+}
+
+#letter-spacing{
+	letter-spacing:5px;
+}
+
+#word-spacing{
+	word-spacing:10px;
+}
+
+#line-height{
+	line-height:40px;
+}
+
+.block{	
+		height:150px;
+		width:400px;
+		background-color:yellow;
+		display:inline-table;		
+}
+
+.vertical{	
+	display:table-cell;
+	vertical-align:bottom;	
+}
+
+.sub{	
+	vertical-align:sub;
+}
+
+.super{	
+	vertical-align:super;
+}
